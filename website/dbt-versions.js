@@ -4,6 +4,10 @@ exports.versions = [
   //   EOLDate: "2023-03-18"
   // },
   {
+    version: "1.1",
+    EOLDate: "2024-5-01"
+  },
+  {
     version: "1.0",
     EOLDate: "2023-12-03"
   },
@@ -17,4 +21,9 @@ exports.versions = [
   }
 ]
 
-exports.versionedPages = []
+exports.versionedPages = [
+  {
+    "page": "docs/contributing/testing-a-new-adapter",
+    "firstVersion": "1.1",
+  }
+]
