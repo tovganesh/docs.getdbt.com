@@ -90,6 +90,7 @@ const sidebarSettings = {
       type: "category",
       label: "Contributing",
       items: [
+        "docs/contributing/oss-expectations",
         "docs/contributing/contributor-license-agreements",
         "docs/contributing/building-a-new-adapter",
         "docs/contributing/slack-rules-of-the-road",
